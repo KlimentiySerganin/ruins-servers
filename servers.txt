@@ -1,0 +1,1 @@
+{servername="test | ds-https://dsc.gg/ruinsgame", maxplayers="100", official="yes", ip="192.166.222.111"}
