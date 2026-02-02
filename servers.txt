@@ -1,2 +1,1 @@
-{servername="test | ds-https://dsc.gg/ruinsgame", maxplayers="100", official="yes", ip="192.166.222.111"}
-{servername="penis | ds-https://dsc.gg/ruinsgame", maxplayers="100", official="yes", ip="1488"}
+1|CatTtaC`s Peoject - Vanilla|localhost|7777|n/a|100|false|true|Vanilla
