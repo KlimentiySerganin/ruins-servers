@@ -1,1 +1,4 @@
-1|CatTtaC`s Peoject - Vanilla|localhost|7777|n/a|100|false|true|Vanilla
+# name | ip | port
+RUINS | EU #1 | 185.123.45.67 | 7777
+RUINS | US #1 | 23.44.55.66 | 7777
+DEV SERVER | 127.0.0.1 | 7777
